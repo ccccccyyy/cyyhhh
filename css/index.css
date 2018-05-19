@@ -1,7 +1,7 @@
 .jd_layout{
     min-width: 300px;
     max-width: 640px;
-    height: 1000px;
+    height: 350px;
     margin: 0 auto;
 }
 .jd_header{
@@ -69,7 +69,7 @@
 }
 .jd_banner{
     min-width: 300px;
-    max-width: 650px;
+    max-width: 640px;
     overflow: hidden;
     position: relative;
     margin: 0 auto;
